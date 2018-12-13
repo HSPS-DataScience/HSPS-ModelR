@@ -1,4 +1,4 @@
 # HSPS-ModelR
 
 ### Installation 
-`devtools::install_github("HSPS-DataScience/HSPS-ModelR")`
+`devtools::install_github("HSPS-DataScience/HSPSModelR")`
