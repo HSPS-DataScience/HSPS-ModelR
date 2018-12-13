@@ -27,5 +27,5 @@
 #' \code{run_models}
 #'
 #' @docType package
-#' @name BYUImachine
+#' @name HSPSModelR
 NULL

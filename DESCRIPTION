@@ -1,4 +1,4 @@
-Package: BYUImachine
+Package: HSPSModelR
 Type: Package
 Title: Machine Learning Model Selection of Cognostic Data
 Description: Produce a robust prediction model using machine learning to predict attrition of eClaims customers.

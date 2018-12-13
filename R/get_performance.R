@@ -25,7 +25,7 @@
 #' }
 #'
 #' @author "Dallin Webb <dallinwebb@@byui.edu>"
-#' @seealso \link[BYUImachine]{extract_measures}
+#' @seealso \link[HSPSModelR]{extract_measures}
 get_performance <- function(models, test_x, test_y) {
 
   if (!is.list(models)) {
