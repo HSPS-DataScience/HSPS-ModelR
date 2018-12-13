@@ -9,6 +9,13 @@ vignette: >
   %\VignetteEncoding{UTF-8}
 ---
 
+```{r setup}
+knitr::opts_chunk$set(
+  eval = FALSE
+)
+```
+
+
 ## Overview
 
 **HSPSModelR** is an R package that reduces the time it takes to fit and compare many machine learning models to a cognostic dataset. It is designed to give the user a quick snapshot of which classification algorithms perform well, as well as extract variable importance. This package works only for binary classification problems.

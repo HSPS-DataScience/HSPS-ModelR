@@ -31,7 +31,7 @@ Imports: dplyr (>= 0.7.4),
     DMwR (>= 0.4.1),
     naniar (>= 0.4.1),
     caretEnsemble (>= 2.0.0),
-    pacman (>= 0.5.0),
+    pacman (>= 0.3.0),
     tidyverse,
     utils,
     stats
